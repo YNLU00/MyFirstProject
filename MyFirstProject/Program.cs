@@ -10,7 +10,7 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world! Update");
+            Console.WriteLine("Hello world! Update");//education branch
         }
     }
 }
